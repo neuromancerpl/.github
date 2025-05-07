@@ -13,3 +13,5 @@ pushing the boundaries of intelligent and energy-efficient robotic systems.
 Through collaborative projects and independent research, we aim to gain a deeper understanding of bio-inspired computation and its practical implementation using state-of-the-art hardware. 
 The Neuromancer Student Research Group provides a platform for students at Lublin University of Technology to engage with advanced concepts in artificial intelligence, 
 gain hands-on experience with specialized hardware, and contribute to the growing field of neuromorphic engineering.
+
+![Neuromancer laboratory](wall.jpg)
