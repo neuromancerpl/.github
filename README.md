@@ -1,5 +1,5 @@
 ## Neuromancer
-####N euromancer Student Research Group
+#### Neuromancer Student Research Group
 
 **The Neuromancer Student Research Group** operates within The Faculty of Mathematics and Information Technology at Lublin University of Technology. 
 Our group is dedicated to exploring the cutting-edge field of neuromorphic computing and spiking neural networks (SNNs). 
